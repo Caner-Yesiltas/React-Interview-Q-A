@@ -1,6 +1,38 @@
-.question{
-    display: flex;
-    justify-content: center;
-  
-    
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.question {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+
+  gap: 1rem;
+}
+
+.size {
+  box-shadow: rgba(6, 48, 187, 0.4) 0px 5px, rgba(18, 14, 218, 0.3) 0px 10px,
+    rgba(240, 46, 170, 0.2) 0px 15px, rgba(48, 17, 223, 0.1) 0px 20px,
+    rgba(240, 46, 170, 0.05) 0px 25px;
+}
+
+.answer {
+  color: rgb(30, 243, 2);
+  font-weight: 600;
+  display: flex;
+  gap: 1rem;
+  text-align: center;
+  background-color: rgba(17, 1, 1, 0.4);
+  cursor: pointer;
+}
+
+body {
+  background-image: url(/public/assets/sci-fi-digital-art-uhdpaper.com-8K-4.956.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-style: italic;
 }
