@@ -1,61 +1,42 @@
-# React Interview Q&A 📝
+https://react-interview-questions-assigment.vercel.app/
 
-<div align="center">
-  <h2>
-    👉 <a href="https://react-interview-questions-assigment.vercel.app/">Live Demo</a> 👈
-  </h2>
-</div>
 
-## 📌 About The Project
+<p>Clarusway<img align="right"
+  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-An interactive React application that displays common React interview questions and answers in an accordion-style interface. Perfect for React developers preparing for technical interviews or reviewing core React concepts.
+# Interview Accord
 
-### ✨ Key Features
+## Description
 
-- 📚 Comprehensive React interview Q&A
-- 🔄 Interactive accordion interface
-- ⚡ Dynamic content rendering
-- 📱 Responsive design
-- 🎨 Bootstrap styling
-- 🔍 Clear question categorization
-- 👆 Easy-to-use toggle functionality
+Project aims to create a Interview Accord App.
 
-### 🛠️ Built With
+## Problem Statement
 
-- [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- CSS3
+- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/react-interview-qa.git
-
-# Navigate to project directory
-cd react-interview-qa
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
-
-## 💻 Project Structure
+## Project Skeleton
 
 ```
-src/
-├── components/
-│   ├── MyHeader.jsx
-│   ├── Question.jsx
-│   └── InterviewAccord.jsx
-├── helper/
-│   ├── data.js
-│   └── icons.js
-├── styles/
-│   └── App.css
-└── App.js
+Interview-Accordion (folder)
+|
+|----readme.md         # Given to the students (Definition of the project)
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│   ├── App.css
+│   ├── App.js
+│   ├── components
+│   │   ├── Question.jsx
+│   │   ├── Header.jsx
+│   │   └── InterviewAccord.jsx
+│   ├── helper
+│   │   ├── data.js
+│   │   └── icons.js
+│   └── index.js
+├── package.json
+└── package-lock.json
+
 ```
 
 ## 🔍 Component Details
