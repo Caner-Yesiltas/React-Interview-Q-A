@@ -6,6 +6,10 @@
   </h2>
 </div>
 
+<div align="center">
+  <img src="/assets/React-Interview.gif" alt="Todo List Demo" width="800"/>
+</div>
+
 ## 📌 About The Project
 
 An interactive React application that displays common React interview questions and answers in an accordion-style interface. Perfect for React developers preparing for technical interviews or reviewing core React concepts.
