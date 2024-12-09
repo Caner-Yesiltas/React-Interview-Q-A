@@ -34,7 +34,7 @@ An interactive React application that displays common React interview questions 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-interview-qa.git
+git clone https://github.com/caneryesiltas/react-interview-qa.git
 
 # Navigate to project directory
 cd react-interview-qa
