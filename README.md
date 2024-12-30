@@ -1,4 +1,11 @@
+
+
+
+<div align="center">
+ <h1> 
 # React Interview Q&A 📝
+ </h1>
+</div>
 
 <div align="center">
   <h2>
