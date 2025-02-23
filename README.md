@@ -150,4 +150,4 @@ Caner Yesiltas - caneryesiltas1@gmail.com
 Project Link: [https://react-interview-questions-assigment.vercel.app/](https://react-interview-questions-assigment.vercel.app/)
 
 ---
-Made with ❤️ by Caner Yesiltas
+Made with  by Caner Yesiltas
